@@ -1,0 +1,31 @@
+
+
+:root {
+    --cor-de-fundo: #FFFFFF;
+    --indianred: #CD5C5C;
+    --darkblue: #00008B;
+    --fonte-principal: "Merriweather";
+    --lightcoral: #F08080;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.cabeçalho__menu-pesquisa {
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+
+
+

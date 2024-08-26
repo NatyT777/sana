@@ -12,7 +12,7 @@ body {
     background-color: var(--cor-de-fundo);
     font-family: var(--fonte-principal);
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 4O0;
 }
 
 .cabeçalho__menu-pesquisa {
@@ -54,7 +54,7 @@ body {
 
 .lista-menu__titulo,
 .lista-menu__item {
-    padding: 1em;
+    padding: lem;
     background-color: var(--indianred);
 }
 
